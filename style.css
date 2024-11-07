@@ -14,6 +14,10 @@ body{
     background-color: #000d14;
 }
 
+.figure{
+    border-radius: 8px;
+}
+
 .icon-cart{
     width: 40px;
     height: 40px;
@@ -37,6 +41,7 @@ header{
     width: 48px;
     height: 48px;
     object-fit: contain;
+    border-radius: 16px;
 }
 .container-icon{
     position: relative;
@@ -177,12 +182,10 @@ header{
     flex-direction: column;
     gap: 10px;
 }
-
 .price{
     font-size: 18px;
     font-weight: 900;
 }
-
 .info-product button{
     border: none;
     background: none;
@@ -191,13 +194,49 @@ header{
     padding: 15px 10px;
     cursor: pointer;
 }
-
 .cart-empty{
     padding: 20px;
     text-align: center;
 }
-
-
 .hidden{
     display: none;
+}
+.filtro{
+    text-align: center;
+    padding: 20px;
+}
+.emoji-button{
+    background-color: #54d69e;
+    color: white;
+    font-size: 15px;
+    border: none;
+    outline: none;
+    padding: 10px;
+    margin: 10px;
+}
+.emoji-button:hover{
+    background-color: #17a366;
+    cursor: pointer;
+}
+.btn-comprar {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+}
+.btn-comprar:hover {
+    background-color: #218838;
+}
+.hidden {
+    display: none;
+}
+.cart-total {
+    display: flex;
+    justify-content: center;
 }
