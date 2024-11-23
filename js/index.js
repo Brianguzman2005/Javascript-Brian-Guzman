@@ -74,15 +74,8 @@ function crearHTMLProducto(producto) {
         <div class="producto">
             <img src="${producto.imagen}" alt="${producto.nombre}">
             <h3>${producto.nombre}</h3>
-            <p>${producto.tipo} para ${producto.genero}</p>
             <div class="precio">$${producto.precio}</div>
             <label for="talle-${producto.id}">Talle:</label>
-            <select id="talle-${producto.id}">
-                <option value="S">S</option>
-                <option value="M">M</option>
-                <option value="L">L</option>
-                <option value="XL">XL</option>
-            </select>
             <button class="boton-comprar" onclick="agregarAlCarrito(${producto.id})">Agregar al carrito</button>
         </div>
     `;
@@ -150,7 +143,7 @@ function mostrarCarrito() {
             const item = document.createElement("div");
             item.classList.add("carrito-item");
             item.innerHTML = `
-                <p>${producto.nombre} (Talle: ${producto.talle}) - $${producto.precio} x ${producto.cantidad} = $${subtotal}</p>
+                <p> $${producto.precio} x ${producto.cantidad} = $${subtotal}</p>
                 <button onclick="cambiarCantidad(${index}, -1)">-</button>
                 <span>${producto.cantidad}</span>
                 <button onclick="cambiarCantidad(${index}, 1)">+</button>
