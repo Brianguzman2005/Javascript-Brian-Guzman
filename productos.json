@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "tipo": "Pantalón",
+        "nombre": "Pantalón Jean",
+        "precio": 5000,
+        "genero": "Hombre",
+        "imagen": "images/pantalon-jean-hombre.PNG"
+    },
+    {
+        "id": 2,
+        "tipo": "Pantalón",
+        "nombre": "Pantalón Cargo",
+        "precio": 6000,
+        "genero": "Hombre",
+        "imagen": "images/pantalon-cargo-hombre.PNG"
+    },
+    {
+        "id": 3,
+        "tipo": "Pantalón",
+        "nombre": "Pantalón Chino",
+        "precio": 10000,
+        "genero": "Hombre",
+        "imagen": "images/pantalon-chino-hombre.PNG"
+    },
+    {
+        "id": 4,
+        "tipo": "Pantalón",
+        "nombre": "Pantalón Jogging",
+        "precio": 3000,
+        "genero": "Hombre",
+        "imagen": "images/pantalon-jogging-hombre.PNG"
+    },
+    {
+        "id": 5,
+        "tipo": "Pantalón",
+        "nombre": "Pantalón Formal",
+        "precio": 12000,
+        "genero": "Hombre",
+        "imagen": "images/pantalon-formal-hombre.PNG"
+    },
+    {
+        "id": 6,
+        "tipo": "Camisa",
+        "nombre": "Camisa Denim",
+        "precio": 7000,
+        "genero": "Hombre",
+        "imagen": "images/camisa-denim-hombre.PNG"
+    },
+    {
+        "id": 7,
+        "tipo": "Camisa",
+        "nombre": "Camisa Formal",
+        "precio": 9000,
+        "genero": "Hombre",
+        "imagen": "images/camisa-formal-hombre.PNG"
+    },
+    {
+        "id": 8,
+        "tipo": "Camisa",
+        "nombre": "Camisa a Cuadros",
+        "precio": 6000,
+        "genero": "Hombre",
+        "imagen": "images/camisa-cuadros-hombre.PNG"
+    },
+    {
+        "id": 9,
+        "tipo": "Camisa",
+        "nombre": "Camisa de Lino",
+        "precio": 8000,
+        "genero": "Hombre",
+        "imagen": "images/camisa-lino-hombre.PNG"
+    },
+    {
+        "id": 10,
+        "tipo": "Camisa",
+        "nombre": "Camisa Entallada",
+        "precio": 9000,
+        "genero": "Hombre",
+        "imagen": "images/camisa-entallada-hombre.PNG"
+    },
+    {
+        "id": 11,
+        "tipo": "Remera",
+        "nombre": "Remera Clásica",
+        "precio": 3000,
+        "genero": "Hombre",
+        "imagen": "images/remera-clasica-hombre.PNG"
+    },
+    {
+        "id": 12,
+        "tipo": "Remera",
+        "nombre": "Remera Deportiva",
+        "precio": 3000,
+        "genero": "Hombre",
+        "imagen": "images/remera-deportiva-hombre.PNG"
+    },
+    {
+        "id": 13,
+        "tipo": "Remera",
+        "nombre": "Remera Polo",
+        "precio": 5000,
+        "genero": "Hombre",
+        "imagen": "images/remera-polo-hombre.PNG"
+    },
+    {
+        "id": 14,
+        "tipo": "Remera",
+        "nombre": "Remera Gráfica",
+        "precio": 4000,
+        "genero": "Hombre",
+        "imagen": "images/remera-grafica-hombre.PNG"
+    },
+    {
+        "id": 15,
+        "tipo": "Remera",
+        "nombre": "Remera Chomba",
+        "precio": 4500,
+        "genero": "Hombre",
+        "imagen": "images/remera-chomba-hombre.PNG"
+    },
+    {
+        "id": 16,
+        "tipo": "Musculosa",
+        "nombre": "Musculosa Lisa",
+        "precio": 3000,
+        "genero": "Hombre",
+        "imagen": "images/musculosa-lisa-hombre.PNG"
+    },
+    {
+        "id": 17,
+        "tipo": "Musculosa",
+        "nombre": "Musculosa Deportiva",
+        "precio": 5000,
+        "genero": "Hombre",
+        "imagen": "images/musculosa-deportiva-hombre.PNG"
+    },
+    {
+        "id": 18,
+        "tipo": "Musculosa",
+        "nombre": "Musculosa de Algodón",
+        "precio": 3000,
+        "genero": "Hombre",
+        "imagen": "images/musculosa-algodon-hombre.PNG"
+    },
+    {
+        "id": 19,
+        "tipo": "Musculosa",
+        "nombre": "Musculosa Estampada",
+        "precio": 4000,
+        "genero": "Hombre",
+        "imagen": "images/musculosa-estampada-hombre.PNG"
+    },
+    {
+        "id": 20,
+        "tipo": "Musculosa",
+        "nombre": "Musculosa Slim Fit",
+        "precio": 5000,
+        "genero": "Hombre",
+        "imagen": "images/musculosa-slimfit-hombre.PNG"
+    }
+]
