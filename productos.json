@@ -4,63 +4,63 @@
         "tipo": "mando",
         "nombre": "Mando ps5",
         "precio": 5000,
-        "imagen": "images/pantalon-jean-hombre.PNG"
+        "imagen": "images/joy.JPG"
     },
     {
         "id": 2,
         "tipo": "mando",
         "nombre": "Mando XBOX",
         "precio": 6000,
-        "imagen": "images/pantalon-cargo-hombre.PNG"
+        "imagen": "images/joy1.jpg"
     },
     {
         "id": 3,
         "tipo": "monitor",
         "nombre": "Monitor 144hz",
         "precio": 10000,
-        "imagen": "images/pantalon-chino-hombre.PNG"
+        "imagen": "images/monitor2.jpg"
     },
     {
         "id": 4,
         "tipo": "monitor",
         "nombre": "Monitor 240hz",
         "precio": 3000,
-        "imagen": "images/pantalon-jogging-hombre.PNG"
+        "imagen": "images/monitor2.jpeg"
     },
     {
         "id": 5,
         "tipo": "grafica",
         "nombre": "Grafica 4060",
         "precio": 12000,
-        "imagen": "images/pantalon-formal-hombre.PNG"
+        "imagen": "images/4060.jpg"
     },
     {
         "id": 6,
         "tipo": "grafica",
-        "nombre": "Grafica 4080",
+        "nombre": "Grafica 1650",
         "precio": 7000,
-        "imagen": "images/camisa-denim-hombre.PNG"
+        "imagen": "images/1650.jpg"
     },
     {
         "id": 7,
         "tipo": "notebook",
         "nombre": "Notebook gamer",
         "precio": 9000,
-        "imagen": "images/camisa-formal-hombre.PNG"
+        "imagen": "images/notebook1.jpg"
     },
     {
         "id": 8,
         "tipo": "notebook",
         "nombre": "Notebook oficina",
         "precio": 6000,
-        "imagen": "images/camisa-cuadros-hombre.PNG"
+        "imagen": "images/notebook2.jpeg"
     },
     {
         "id": 9,
         "tipo": "microfono",
         "nombre": "Microfono Gamer",
         "precio": 8000,
-        "imagen": "images/camisa-lino-hombre.PNG"
+        "imagen": "images/microfono.jpg"
     },
     {
         "id": 10,
@@ -68,6 +68,6 @@
         "nombre": "Microfono de estudio",
         "precio": 9000,
         "genero": "Hombre",
-        "imagen": "images/camisa-entallada-hombre.PNG"
+        "imagen": "images/microfono1.jpg"
     }
 ]
